@@ -1,6 +1,5 @@
-# Knapsack-Problem
-
-Problem Description:
+# Knapsack-Problem:
+You are provided with a knapsack with limited space and a collection of items with different values and weights. Your task is to maximize the value of items packed into your knapsack without exceeding its total capacity.
 The problem is mathematically formulated in the following way. Given n items to choose from, each item i ∈ 0..n-1 has a value vi and a weight wi . The knapsack has a limited capacity K. Your job is to maximize the profit of all items taken while having the weight of the objects taken be ≤ K
 
 Input File Format:
